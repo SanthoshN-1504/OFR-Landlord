@@ -70,7 +70,7 @@ public class LandlordController {
 	
 	/*
 	 * when remove request is received, business logic for respective method is performed
-	 * returns true if removed
+	 * returns true if removed  
 	 * 
 	 */
 	
